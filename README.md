@@ -1,3 +1,5 @@
+![logo](Frame.png)
+
 ## Hi there 👋
 
 I'm Onyegbu ifedili but that's not all,  
