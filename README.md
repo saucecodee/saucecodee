@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Onyegbu ifedili but that's not all,  
+I'm Onyegbu Ifedili, but that's not all,  
 I'm an author of a library but i don't write books,  
 I write instructions humans read but computers obey,  
 I make sauce but not in the kitchen,  
