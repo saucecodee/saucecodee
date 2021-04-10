@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Onyegbu Ifedili, but that's not all,  
-I'm an author of a library but i don't write books,  
+I'm an author of libraries but i don't write books,  
 I write instructions that humans read but computers obey,  
 I make sauce but not in the kitchen,  
 I'm a designer but not by convention,  
