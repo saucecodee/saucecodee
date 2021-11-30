@@ -9,7 +9,7 @@
 
 [![Ifedili's github stats](https://github-readme-stats.vercel.app/api?username=saucecodee&count_private=true&show_icons=true&theme=gotham&line_height=27)](https://github.com/murewaashiru/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saucecodee&theme=gotham&count_private=true&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=saucecodee&theme=gotham&count_private=true&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Ifedili's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saucecodee&theme=gotham&count_private=true&line_height=27&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
