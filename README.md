@@ -8,5 +8,3 @@
 🙃   I take my craft seriously, but i'm just having fun.
 
 [![Ifedili's GitHub stats](https://github-readme-stats.vercel.app/api?username=saucecodee&count_private=true&show_icons=true&theme=gotham&line_height=27)](https://github.com/murewaashiru/github-readme-stats)
-
-[![Most used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=saucecodee&theme=gotham&count_private=true&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
